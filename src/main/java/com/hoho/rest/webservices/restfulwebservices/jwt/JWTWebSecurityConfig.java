@@ -1,6 +1,5 @@
 package com.hoho.rest.webservices.restfulwebservices.jwt;
-import com.hoho.rest.webservices.restfulwebservices.jwt.JwtTokenAuthorizationOncePerRequestFilter;
-import com.hoho.rest.webservices.restfulwebservices.jwt.JwtUnAuthorizedResponseAuthenticationEntryPoint;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
